@@ -1,8 +1,8 @@
 module.exports = {
   title: '小蜗牛之家',
   description: 'Just playing around',
-  // base: '/blog/',
-  base: './',
+  base: '/blog/',
+  // base: './',
 
   markdown: {
     lineNumbers: true
